@@ -1,0 +1,44 @@
+{
+  "jobs": [
+    { "id": 1, "companyId": 1, "cityId": 1, "worktimeId": 1, "jobtitleId": 1, "relaizedin": "8-12-2020" },
+    { "id": 2, "companyId": 1, "cityId": 2, "worktimeId": 3, "jobtitleId": 1, "relaizedin": "8-8-2020" },
+    { "id": 3, "companyId": 2, "cityId": 4, "worktimeId": 3, "jobtitleId": 3, "relaizedin": "8-11-2020" },
+    { "id": 4, "companyId": 4, "cityId": 2, "worktimeId": 2, "jobtitleId": 3, "relaizedin": "8-8-2020" },
+    { "id": 5, "companyId": 1, "cityId": 1, "worktimeId": 1, "jobtitleId": 1, "relaizedin": "8-7-2020" },
+    { "id": 6, "companyId": 1, "cityId": 2, "worktimeId": 3, "jobtitleId": 1, "relaizedin": "8-8-2020" },
+    { "id": 7, "companyId": 3, "cityId": 4, "worktimeId": 2, "jobtitleId": 1, "relaizedin": "8-3-2020" },
+    { "id": 8, "companyId": 4, "cityId": 2, "worktimeId": 2, "jobtitleId": 3, "relaizedin": "8-8-2020" },
+    { "id": 9, "companyId": 1, "cityId": 1, "worktimeId": 1, "jobtitleId": 1, "relaizedin": "8-8-2020" },
+    { "id": 10, "companyId": 1, "cityId": 2, "worktimeId": 3, "jobtitleId": 1, "relaizedin": "8-8-2020" },
+    { "id": 11, "companyId": 2, "cityId": 4, "worktimeId": 3, "jobtitleId": 3, "relaizedin": "8-1-2020" },
+    { "id": 12, "companyId": 4, "cityId": 2, "worktimeId": 2, "jobtitleId": 3, "relaizedin": "8-8-2020" },
+    { "id": 13, "companyId": 2, "cityId": 4, "worktimeId": 3, "jobtitleId": 3, "relaizedin": "8-1-2020" },
+    { "id": 14, "companyId": 4, "cityId": 2, "worktimeId": 2, "jobtitleId": 3, "relaizedin": "8-8-2020" }
+  ],
+  "companyies": [
+    { "id": 1, "name": "pepsi", "logo": "pepsi", "keywords": ["peepssi", "beppsi"] },
+    { "id": 2, "name": "nessla", "logo": "nessla", "keywords": ["peepssi", "beppsi"] },
+    { "id": 3, "name": "vodaphone", "logo": "vodaphone", "keywords": ["peepssi", "beppsi"] },
+    { "id": 4, "name": "jumia", "logo": "jumia", "keywords": ["peepssi", "beppsi"] },
+    { "id": 5, "name": "google", "logo": "google", "keywords": ["gogle", "Google"] }
+  ],
+  "cities": [
+    { "id": 1, "name": "new york", "keywords": ["newyork", "newYourk", "NewYourk", "new yourk", "new york"] },
+    { "id": 2, "name": "london", "keywords": ["london", "loondon", "landon"] },
+    { "id": 3, "name": "cairo", "keywords": ["ciro", "cairo", "cairoo"] },
+    { "id": 4, "name": "alex", "keywords": ["alex", "alexandria", "alexand"] },
+    { "id": 5, "name": "giza", "keywords": ["giza", "giiza", "gizaa"] }
+  ],
+  "workTimes": [
+    { "id": 1, "name": "fulltime", "bgColor": "lightblue" },
+    { "id": 2, "name": "freelancer", "bgColor": "lightgreen" },
+    { "id": 3, "name": "parttime", "bgColor": "orange" },
+    { "id": 4, "name": "intership", "bgColor": "nav" }
+  ],
+  "jobTitles": [
+    { "id": 1, "name": "sales", "keywords": ["sales", "sals", "salles"] },
+    { "id": 2, "name": "project manager", "keywords": ["project manager", "projectmanager"] },
+    { "id": 3, "name": "front end developer", "keywords": ["front end developer", "frontend developer", "frontenddeveloper", "Front End Developer"] },
+    { "id": 4, "name": "graphic designer", "keywords": ["graphic designer", "graphicdesigner"] }
+  ]
+}
